@@ -1,2 +1,3 @@
 # MACMIC
-(../img/overview.png)
+
+![overview](../img/pastebin-overview.png)
