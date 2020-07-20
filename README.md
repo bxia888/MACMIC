@@ -1,3 +1,3 @@
 # MACMIC
 
-![overview](../img/overview.jpeg)
+![overview](./img/overview.jpeg)
